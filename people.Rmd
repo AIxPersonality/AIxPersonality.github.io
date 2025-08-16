@@ -1,0 +1,56 @@
+---
+title: "People"
+description: Participants and Organization
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Participants (alphabetical order)
+
+[Elisa Altgassen](https://www.uni-ulm.de/in/psy-dia/team/elisa-altgassen/), Ulm University  
+
+[Ruben Arslan](https://rubenarslan.github.io/), University of Witten-Herdecke 
+
+[Wiebke Bleidorn](https://www.psychologie.uzh.ch/de/bereiche/sob/diffpsy/team/leitung/bleidorn.html), University of Zurich  
+
+[Levin Brinkman](https://www.mpib-berlin.mpg.de/person/levin-brinkmann/367626), Max-Planck Institute for Human Development
+
+[David Condon](https://cas.uoregon.edu/directory/natural-sciences/all/dcondon), University of Oregon/Midjourney
+
+[Giulio Costantini](https://en.unimib.it/giulio-costantini), University of Milano-Bicocca
+
+[Mengchen Dong](https://www.mpib-berlin.mpg.de/mitarbeiter/mengchen-dong), Max-Planck Institute for Human Development
+
+[Lucie Flek](https://www.uni-bonn.de/de/forschung-lehre/forschungsprofil/transdisziplinaere-forschungsbereiche/modelling/mitgliederverzeichnis/lucie-flek), University of Bonn
+
+[Igor Grossmann](https://igorgrossmann.com/), University of Waterloo 
+
+[Alina Herderich](https://hai-lina.github.io/), University of Graz
+
+[Björn Hommel](https://www.lw.uni-leipzig.de/wilhelm-wundt-institut-fuer-psychologie/arbeitsgruppen/persoenlichkeitspsychologie-und-psychologische-diagnostik/team/dr-bjoern-hommel), University of Leipzig
+
+[Jana Jung](https://jasoju.github.io/), University of Mannheim
+
+[Marlene Lutz](https://marlenelutz.github.io/), University of Mannheim
+
+[Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/), University of Basel  
+
+[Max Pellert](https://mpellert.at/), Barcelona Supercomputing Center
+
+[Ramona Schödel](https://www.charlotte-fresenius-uni.de/forschung-lehre/professuren/prof-dr-ramona-schoedel/), Charlotte Fresenius Hochschule, University of Psychology  
+
+[Indira Sen](https://indiiigo.github.io/), University of Mannheim
+
+[Clemens Stachl](https://sites.google.com/view/clemensstachl/home), University of St. Gallen
+
+[Tom Sühr](https://tomsuehr.com/), Max-Planck Institute for Intelligent Systems
+
+[Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff), Max Planck Institute for Human Development  
+
+### Organization
+
+The *EAPP Focus Meeting* is organized by [Elisa Altgassen](https://www.uni-ulm.de/in/psy-dia/team/elisa-altgassen/) (Ulm University), [Ruben Arslan](https://rubenarslan.github.io/) (University of Witten-Herdecke), and [Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff) (Max Planck Institute for Human Development). 
+
+Administrative support provided by [Carolyn Gläsener](https://www.mpib-berlin.mpg.de/person/carolyn-glaesener/57651), Max Planck Institute for Human Development

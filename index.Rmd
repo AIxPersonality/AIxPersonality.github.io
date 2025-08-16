@@ -1,0 +1,26 @@
+---
+title: "Bridging Psychology and AI: The Future of Human and Machine Personality"
+description: |
+  EAPP-funded focus meeting, October 1-2, 2025, Berlin, Germany. 
+  
+output: 
+  distill::distill_article:
+    md_extensions: +emoji
+    includes:
+      in_header: header.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+The rapid advancement of artificial intelligence systems, particularly Large Language Models (LLMs), has created a compelling new frontier at the intersection of technology and human science. With their remarkable ability to generate and interpret human language, these systems present a dual opportunity that demands interdisciplinary collaboration. On one hand, AI offers powerful new tools to advance personality psychology, enabling novel ways to model theories and analyze behavior at an unprecedented scale. On the other, the principles of personality psychology provide an essential framework for evaluating the increasingly complex and human-like behaviors of AI systems.
+
+Despite this potential for a reciprocal relationship, integration between the fields remains limited. This focus meeting seeks to bridge this gap by convening researchers from both domains to collaboratively explore this two-way street: how can AI advance the study of personality, and how can personality science inform the evaluation of AI?
+
+The program of the meeting is detailed in the **[workshop](workshop.html)** page. You can find a full list of participants in **[people](people.html)**.
+
+<aside>
+Want to get in touch? Send us an email at [wulff@mpib-berlin.mpg.de](mailto:wulff@mpib-berlin.mpg.de)!
+</aside>
