@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Levin Brinkman](https://www.mpib-berlin.mpg.de/person/levin-brinkmann/367626), Max-Planck Institute for Human Development
 
-[David Condon](https://cas.uoregon.edu/directory/natural-sciences/all/dcondon), University of Oregon/Midjourney
+[David Condon](https://cas.uoregon.edu/directory/natural-sciences/all/dcondon), Midjourney
 
 [Giulio Costantini](https://en.unimib.it/giulio-costantini), University of Milano-Bicocca
 
