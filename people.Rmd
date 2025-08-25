@@ -15,13 +15,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Wiebke Bleidorn](https://www.psychologie.uzh.ch/de/bereiche/sob/diffpsy/team/leitung/bleidorn.html), University of Zurich  
 
-[Levin Brinkman](https://www.mpib-berlin.mpg.de/person/levin-brinkmann/367626), Max-Planck Institute for Human Development
+[Levin Brinkman](https://www.mpib-berlin.mpg.de/person/levin-brinkmann/367626), Max Planck Institute for Human Development
 
-[David Condon](https://cas.uoregon.edu/directory/natural-sciences/all/dcondon), University of Oregon/Midjourney
+[David Condon](https://cas.uoregon.edu/directory/natural-sciences/all/dcondon), Midjourney
 
 [Giulio Costantini](https://en.unimib.it/giulio-costantini), University of Milano-Bicocca
 
-[Mengchen Dong](https://www.mpib-berlin.mpg.de/mitarbeiter/mengchen-dong), Max-Planck Institute for Human Development
+[Mengchen Dong](https://www.mpib-berlin.mpg.de/mitarbeiter/mengchen-dong), Max Planck Institute for Human Development
 
 [Lucie Flek](https://www.uni-bonn.de/de/forschung-lehre/forschungsprofil/transdisziplinaere-forschungsbereiche/modelling/mitgliederverzeichnis/lucie-flek), University of Bonn
 
@@ -45,7 +45,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Clemens Stachl](https://sites.google.com/view/clemensstachl/home), University of St. Gallen
 
-[Tom Sühr](https://tomsuehr.com/), Max-Planck Institute for Intelligent Systems
+[Tom Sühr](https://tomsuehr.com/), Max Planck Institute for Intelligent Systems
 
 [Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff), Max Planck Institute for Human Development  
 
