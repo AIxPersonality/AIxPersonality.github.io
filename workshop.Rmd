@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Venue
 
-Citadines Kurfürstendamm Berlin,  Olivaer Pl. 1, 10707 Berlin, Germany [website](https://www.discoverasr.com/en/citadines/germany/citadines-kurfurstendamm-berlin)
+[Citadines Kurfürstendamm Berlin,  Olivaer Pl. 1, 10707 Berlin, Germany](https://www.discoverasr.com/en/citadines/germany/citadines-kurfurstendamm-berlin)
 
 ## Goals
 
