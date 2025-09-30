@@ -35,7 +35,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Marlene Lutz](https://marlenelutz.github.io/), University of Mannheim
 
-[Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/), University of Basel  
+[Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/), University of Basel 
+
+[Jelena Meyer](), University of Konstanz 
 
 [Max Pellert](https://mpellert.at/), Barcelona Supercomputing Center
 
