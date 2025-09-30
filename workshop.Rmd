@@ -10,7 +10,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Venue
 
-[Citadines Kurfürstendamm Berlin,  Olivaer Pl. 1, 10707 Berlin, Germany](https://www.discoverasr.com/en/citadines/germany/citadines-kurfurstendamm-berlin)
+Workshop: Max Planck Institute for Human Development, Lentzeallee 94, 14195 Berlin, Germany
+
+Hotel: [Citadines Kurfürstendamm Berlin,  Olivaer Pl. 1, 10707 Berlin, Germany](https://www.discoverasr.com/en/citadines/germany/citadines-kurfurstendamm-berlin)
 
 ## Goals
 
